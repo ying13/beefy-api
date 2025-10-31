@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.6",
-    "@koa/cors": "^3.1.0",
+    "@koa/cors": "^5.0.0",
     "@koa/router": "^9.4.0",
     "apollo-link-http": "^1.5.17",
     "apollo-link-timeout": "^4.0.0",
@@ -93,7 +93,7 @@
     "graphql-tag": "^2.12.4",
     "husky": "^6.0.0",
     "jsonpath": "^1.1.1",
-    "koa": "^2.13.0",
+    "koa": "^3.0.3",
     "koa-bodyparser": "^4.3.0",
     "koa-conditional-get": "^3.0.0",
     "koa-etag": "^4.0.0",
